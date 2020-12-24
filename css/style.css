@@ -895,11 +895,22 @@ header .about_slider .carousel-indicators li.active {
 
 /* exSm  320px  */
 @media(max-width: 575px){
+
     header .header_top .header_number p{
-        font-size: 12px;
+        font-size: 8px;
     }
     header .header_top .header_acaunt .btn{
         font-size: 12px;
+        padding: 5px 5px;
+    }
+    header .header_top .header_acaunt .header_user .fas{
+        font-size: 15px;
+    }
+    header .header_top .header_acaunt .header_search a .fas{
+        font-size: 15px;
+    }
+    header .header_top .header_acaunt .header_search{
+        display: none;
     }
     header .header_top .header_acaunt .header_user p{
         font-size: 12px;
