@@ -904,5 +904,81 @@ header .about_slider .carousel-indicators li.active {
     header .header_top .header_acaunt .header_user p{
         font-size: 12px;
     }
+    header .menu_shop .logo_shop{
+        font-size: 20px;
+    }
+    header .menu_shop .shop_lists li{
+        margin-right: 15px;
+    }
+    header .menu_shop .shop_lists li a{
+        font-size: 12px;
+    }
+    main .main_top .form_input{
+        display: none;
+    }
+    main .tab_brands .list-group-item{
+        font-size: 11px;
+        padding: 10px 10px;
+    }
+    main .tab_brands .tab-content .card .card-body h5{
+        font-size: 11px;
+        margin: 5px 0 0px 0;
+    }
+    main .tab_brands .tab-content .card .card-body .card-text{
+        font-size: 16px;
+        
+    }
+    main .tab_brands .tab-content .card .card-body .btn-group .btn{
+        font-size: 12px;
+    }
+    footer h3{
+        font-size: 14px;
+    }
+    footer .footer_bottom_menu li a{
+        font-size: 10px;
+        padding-right: 5px;
+    }
+    footer .footer_bootom_text{
+        font-size: 12px;
+    }
+    header .menu_shop{
+        text-align: center;
+    }
+    .shop_collections .shop_sort{
+        display: none;
+    }
+    .shop_collections .shop_resul{
+        font-size: 11px;
+    }
+    .shop_collections .prices h5{
+        font-size: 12px;
+    }
+    .card-body{
+        padding: 5px 5px;
+    }
+    .shop_collections .prices p{
+        font-size: 20px;
+    }
+    .shop_collections .prices .btn-group .btn{
+        font-size: 12px;
+    }
+    .shop_collections .category_title{
+        margin-bottom: 0;
+    }
+    .shop_collections .category_title h3{
+        font-size: 11px;
+    }
+    .shop_collections .category_size button{
+        padding: 5px 13px;
+    }
+    .shop_collections .category_size{
+        margin-bottom: 10px;
+    }
+    .shop_collections .category_price{
+        font-size: 12px;
+    }
+    footer{
+        padding: 21px 0 24px;
+    }
 
 }
